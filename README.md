@@ -1,4 +1,4 @@
-# CampusBites---College-Canteen-Ordering-System
+# CampusBites-College-Canteen-Ordering-System
 
 
 CampusBites is a modern web-based canteen ordering platform designed to simplify food ordering within college campuses. The system allows students to browse menu items, place orders, track their order status, and enables canteen administrators to efficiently manage orders and menu items.
